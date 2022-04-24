@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("假如生活欺骗了你 不要悲伤 不要难过 忧郁的日子里须镇静 ");
         System.out.println("hello Git 0205");
+        System.out.println("hello Bamboo");
     }
 }
