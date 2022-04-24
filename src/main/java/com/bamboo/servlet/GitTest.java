@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello Git 0205");
         System.out.println("hello Bamboo");
         System.out.println("hello master test");
+        System.out.println("push test");
     }
 }
